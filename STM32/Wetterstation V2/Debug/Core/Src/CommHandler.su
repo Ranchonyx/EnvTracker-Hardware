@@ -1,0 +1,2 @@
+../Core/Src/CommHandler.c:12:6:CommHandler_Init	8	static
+../Core/Src/CommHandler.c:18:6:CommHandler_LoRaProcess	16	static

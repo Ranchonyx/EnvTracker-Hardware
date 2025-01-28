@@ -1,0 +1,8 @@
+../Core/Src/HP20x.c:17:6:HP20x_IIC_WriteCmd	24	static
+../Core/Src/HP20x.c:21:10:HP20x_IIC_ReadData	32	static
+../Core/Src/HP20x.c:29:6:HP20x_Init	16	static
+../Core/Src/HP20x.c:48:6:HP20x_SoftReset	8	static
+../Core/Src/HP20x.c:53:7:HP20x_ReadPressure	16	static
+../Core/Src/HP20x.c:61:7:HP20x_ReadAltitude	16	static
+../Core/Src/HP20x.c:69:7:HP20x_ReadTemperature	16	static
+../Core/Src/HP20x.c:77:6:HP20x_ReadAllMeasuredValues	40	static

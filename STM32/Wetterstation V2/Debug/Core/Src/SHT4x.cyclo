@@ -1,0 +1,13 @@
+../Core/Src/SHT4x.c:12:6:SHT4X_Init	1
+../Core/Src/SHT4x.c:16:6:SHT4X_SoftReset	1
+../Core/Src/SHT4x.c:22:6:SHT4X_ReadSerialNumber	3
+../Core/Src/SHT4x.c:43:6:SHT4X_Measure	3
+../Core/Src/SHT4x.c:69:6:SHT4X_MeasureHighPrecision	1
+../Core/Src/SHT4x.c:73:6:SHT4X_MeasureMediumPrecision	1
+../Core/Src/SHT4x.c:77:6:SHT4X_MeasureLowestPrecision	1
+../Core/Src/SHT4x.c:81:6:SHT4X_MeasureHeated200mW_1000ms	1
+../Core/Src/SHT4x.c:85:6:SHT4X_MeasureHeated200mW_100ms	1
+../Core/Src/SHT4x.c:89:6:SHT4X_MeasureHeated110mW_1000ms	1
+../Core/Src/SHT4x.c:93:6:SHT4X_MeasureHeated110mW_100ms	1
+../Core/Src/SHT4x.c:97:6:SHT4X_MeasureHeated20mW_1000ms	1
+../Core/Src/SHT4x.c:101:6:SHT4X_MeasureHeated20mW_100ms	1

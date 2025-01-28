@@ -1,0 +1,8 @@
+../Core/Src/LoRa_E5.c:34:6:ConvertTextToHex	3
+../Core/Src/LoRa_E5.c:42:13:LoRa_E5_SendCommand	2
+../Core/Src/LoRa_E5.c:72:6:LoRa_E5_Init	1
+../Core/Src/LoRa_E5.c:78:6:LoRa_E5_SetModeTest	1
+../Core/Src/LoRa_E5.c:83:6:LoRa_E5_SetConfiguration	1
+../Core/Src/LoRa_E5.c:90:6:LoRa_E5_SendMessage	1
+../Core/Src/LoRa_E5.c:107:6:LoRa_E5_ReceiveMessage	5
+../Core/Src/LoRa_E5.c:146:6:LoRa_E5_ProcessResponse	2
