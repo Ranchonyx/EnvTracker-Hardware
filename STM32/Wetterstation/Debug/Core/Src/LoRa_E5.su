@@ -1,0 +1,6 @@
+../Core/Src/LoRa_E5.c:31:5:Serial_Read	16	static
+../Core/Src/LoRa_E5.c:49:13:WaitForResponse	24	static
+../Core/Src/LoRa_E5.c:65:6:SeeedE5_Init	8	static
+../Core/Src/LoRa_E5.c:73:6:SeeedE5_SetConfig	200	static
+../Core/Src/LoRa_E5.c:91:6:SeeedE5_Send	144	static
+../Core/Src/LoRa_E5.c:99:6:SeeedE5_Receive	16	static

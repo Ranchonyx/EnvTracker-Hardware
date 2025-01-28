@@ -1,0 +1,12 @@
+../Core/Src/SEN5x.c:12:6:SEN5X_Init	1
+../Core/Src/SEN5x.c:16:6:SEN5X_StartMeasurement	1
+../Core/Src/SEN5x.c:22:6:SEN5X_StopMeasurement	1
+../Core/Src/SEN5x.c:28:9:SEN5X_ReadDataReadyFlag	2
+../Core/Src/SEN5x.c:44:6:SEN5X_ReadAllMeasuredValues	3
+../Core/Src/SEN5x.c:83:6:SEN5X_StartFanClean	1
+../Core/Src/SEN5x.c:88:6:SEN5X_ReadProductName	3
+../Core/Src/SEN5x.c:109:6:SEN5X_ReadSerialNumber	3
+../Core/Src/SEN5x.c:130:6:SEN5X_ReadFirmwareVersion	3
+../Core/Src/SEN5x.c:151:10:SEN5X_ReadDeviceStatus	2
+../Core/Src/SEN5x.c:167:6:SEN5X_ClearDeviceStatus	1
+../Core/Src/SEN5x.c:172:6:SEN5X_Reset	1

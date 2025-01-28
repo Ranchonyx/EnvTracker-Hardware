@@ -1,0 +1,6 @@
+../Core/Src/command_processor.c:22:13:SendUARTMessage	1
+../Core/Src/command_processor.c:28:13:Command_Help	1
+../Core/Src/command_processor.c:43:13:Command_SetInterval	3
+../Core/Src/command_processor.c:55:13:Command_ReadSensors	1
+../Core/Src/command_processor.c:62:13:Command_HP20xTemp	1
+../Core/Src/command_processor.c:84:6:ProcessCommand	5
